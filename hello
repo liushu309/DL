@@ -1,1 +1,7 @@
-Helloworld
+//Helloworld
+#include <iostream>
+using namesapces std;
+
+int main(){
+    cout<<"hello world"<<endl;
+}
