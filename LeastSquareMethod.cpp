@@ -1,6 +1,3 @@
-#include <opencv2/opencv.hpp>
-#include <iostream>
-
 /*
 最小二乘法的实现
 C++版
