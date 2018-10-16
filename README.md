@@ -5,6 +5,8 @@ tensorflow相关笔记
 最小二乘法
 ## LUDecomposition
 LU矩阵分解
+## SVD
+svd矩阵分解
 
 # 概念
 ## 超定方程
