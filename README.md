@@ -29,3 +29,8 @@ levenlerg-marquaerdt，牛顿法等，前者用得比较多，在matlab中用lsq
   
   总能相似对角化
 
+## 样本预测类型
+True Positive(真正，TP)：将正类预测为正类数    
+True Negative(真负，TN)：将负类预测为负类数    
+False Positive(假正，FP)：将负类预测为正类数误报 (Type I error)    
+False Negative(假负，FN)：将正类预测为负类数→漏报 (Type II error)    
