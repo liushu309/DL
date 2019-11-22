@@ -30,7 +30,7 @@ levenlerg-marquaerdt，牛顿法等，前者用得比较多，在matlab中用lsq
   总能相似对角化
 
 ## 样本预测类型
-True Positive(真正，TP)：将正类预测为正类数    
-True Negative(真负，TN)：将负类预测为负类数    
-False Positive(假正，FP)：将负类预测为正类数误报 (Type I error)    
-False Negative(假负，FN)：将正类预测为负类数→漏报 (Type II error)    
+FN：False Negative,被判定为负样本，但事实上是正样本。  
+FP：False Positive,被判定为正样本，但事实上是负样本。  
+TN：True Negative,被判定为负样本，事实上也是负样本。  
+TP：True Positive,被判定为正样本，事实上也是证样本。    
