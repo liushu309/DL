@@ -1,3 +1,13 @@
+
+# 1. 编码
+# 2. 初始化种群
+# 3. 评估种群中个体适应度
+# 4. 选择
+# 5. 交叉
+# 6. 变异 
+# （7）. 演化3->6
+
+
 """
 Visualize Genetic Algorithm to find a maximum point in a function.
 Visit my tutorial website for more: https://morvanzhou.github.io/tutorials/
